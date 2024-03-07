@@ -1,0 +1,105 @@
+header {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    padding: 1em;
+
+}
+
+footer {
+
+   
+    background-color: rgb(221, 167, 146);
+    padding: 1em;
+    font-size: 25px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+   
+    
+
+}
+
+
+h1 {
+    color: darkgoldenrod;
+    
+
+}
+p {
+    color: black;
+    
+
+
+}
+
+.jono {
+    display: flex;
+   
+
+}
+
+.jono >div {
+    flex: 1;
+    border-style: none;
+    background-color: rgb(221, 167, 146);
+    padding: 1em;
+    text-align: center;
+   
+   font-weight: bold;
+   font-size: 20px;
+    
+    
+
+}
+
+.vertikaalinen {
+    list-style-type: none;
+    min-height: 600px;
+    float: left;
+    padding: 20px;
+    background-color: aqua;
+    margin: 0;
+    font-size: 30px;
+    
+    
+      
+
+}
+
+.vertilinkit {
+    list-style-type: none;
+    padding: 0px;
+    margin: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    
+}
+
+div a:hover {
+     
+        color: red;
+
+}
+
+section {
+    float: left;
+    width: 40%;
+    color: blue;
+    height: 230px;
+    padding: 1em;
+    
+}
+
+.kontenttia {
+    list-style-type: disc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    color: black;
+
+}
+
+
+
